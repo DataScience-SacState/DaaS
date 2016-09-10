@@ -1,5 +1,5 @@
 var bool = function() {
-	if (Math.random() > .5) return true; else return false;
-}
+	return (Math.random() > 0.5);
+};
 
 module.exports = bool;

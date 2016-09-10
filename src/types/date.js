@@ -17,6 +17,6 @@ var date = function(params) {
     var resultDate = new Date(randomTimestamp);
     
     return resultDate.toISOString().split("T")[0];
-}
+};
 
 module.exports = date;
