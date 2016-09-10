@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/DataScience-SacState/DaaS#readme",
   "dependencies": {
+    "boom": "^4.0.0",
     "hapi": "^15.0.3"
   }
 }
