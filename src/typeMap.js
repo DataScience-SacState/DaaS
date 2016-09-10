@@ -1,4 +1,4 @@
-var brandonsList = ["bool", "gender", "date"]
+var brandonsList = ["bool", "gender", "date", "list"]
 
 module.exports = (function(){
     var ret = {};
