@@ -1,5 +1,5 @@
 var gender = function() {
-	if (Math.random() > .5) return "female"; else return "male";
-}
+	return (Math.random() > .5) ? 'female' : 'male';
+};
 
 module.exports = gender;
